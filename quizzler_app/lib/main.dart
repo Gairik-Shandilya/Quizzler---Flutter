@@ -132,8 +132,7 @@ class _QuizPageState extends State<QuizPage> {
             ),
           ),
         ),
-        Row(
-          children: scoreKeeper,
+        Row(children: scoreKeeper,
         ),
       ],
     );
